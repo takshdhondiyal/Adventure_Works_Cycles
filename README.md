@@ -23,6 +23,8 @@ To develop a comprehensive dashboard that provides real-time insights into key p
 
 -- Road-650 Red,52 has the highest return rate followed by Mountain-100 silver,44 whereas AWC Logo Cap has the lowest.
 
+-- The What-if parameter helped us to project the Revenue when dynamic pricing was applied.
+
 -- Probability of getting multiple products is higher in Canada though United States and Australia have the highest contribution in the overall Revenue and sales.
 
 -- The average of Revenue is increased by 3.16M when product price goes up 19,856.18 Dollars.
