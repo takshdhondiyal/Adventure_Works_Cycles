@@ -5,6 +5,7 @@ Analysis of sales data
 To develop a comprehensive dashboard that provides real-time insights into key performance metrics and trends, enabling stakeholders to monitor and analyze operations effectively.
 
 **Steps involved**
+
 -- ETL in Power Query.
 
 -- Data modeling
